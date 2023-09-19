@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oren
 - 👀 I’m interested in Data Science & Coding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on any Data Science related project!
 - 📫 Reach me by email: oren.joffe24@gmail.com
 
